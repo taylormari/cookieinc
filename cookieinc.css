@@ -1,0 +1,32 @@
+body {
+  background:     unset;
+  outline:    0.0rem solid hsla(1000, 0%, 0%, 0) ;
+  margin:          unset;
+  box-sizing:      unset;
+  padding:         unset;
+  color:           unset;
+  text-decoration: unset;
+
+}
+
+.main_page {
+	
+}
+
+#cookiemachine {
+	margin-left: 30vw;
+	position: absolute;
+	z-index: 1;
+	max-height: 100vh;
+}
+
+.random_cookie {
+	position: absolute;
+	margin-left: 30vw;
+	margin-top: 60vh;
+	z-index: 2;
+}
+
+.random_cookie img {
+	max-width: 200px;
+}
